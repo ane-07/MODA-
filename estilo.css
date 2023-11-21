@@ -2,6 +2,7 @@ body{
  background-color:#FFC5C5; 
  font-size:  20px; 
  text-align: center;  
+ font-family: 'Great Vibes', cursive;
 }
 p{
     font-size: 24px;
@@ -12,4 +13,3 @@ p{
     color:#2D9596 ;
     font-style: 25px;
 }
- 
